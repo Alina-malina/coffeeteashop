@@ -10,7 +10,7 @@
                 <div class="col-lg-6">
                     <!-- Mashead text and app badges-->
                     <div class="mb-5 mb-lg-0 text-center text-lg-start">
-                        <h1 class="display-1 lh-1 mb-3 fw-700 fs-55 fstl-normal lh-67 pb-30 black">Лучшее кофе и<br>чай
+                        <h1 class="display-1 lh-1 mb-3 fw-700 fs-55 fstl-normal lh-67 pb-30 black">Лучший кофе и<br>чай
                             для Вас!</h1>
                         <p class="lead mb-5 fw-500 fs-30 fstl-normal lh-37 pb-51 black">Мы предоставляем только<br>
                             высококачественные кофе и чаи,<br>чтобы Вы могли наслаждаться<br>прекрасным вкусом каждый
